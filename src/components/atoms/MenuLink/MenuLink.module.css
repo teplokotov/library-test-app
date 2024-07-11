@@ -1,0 +1,24 @@
+.link {
+    text-decoration: none;
+    text-underline-position: under;
+    color: #000;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.link:visited {
+    color: #000;
+}
+
+.linkActive {
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 600;
+}

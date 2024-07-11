@@ -1,0 +1,15 @@
+.profileBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+    background-color: #eee;
+    border-bottom: 1px solid #acacac;
+}
+
+.profileBarAvatar {
+    max-width: 35px;
+    max-height: 35px;
+}
+
