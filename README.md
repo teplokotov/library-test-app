@@ -3,7 +3,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Atomic Design](https://img.shields.io/badge/atomic-design-%23be6700.svg?style=for-the-badge&logo=atomic&logoColor=white)](https://atomicdesign.bradfrost.com/)
 
-[![image]()](https://teplokotov.github.io/library-test-app/)
+[![image](https://github.com/teplokotov/library-test-app/assets/118915923/2f5d8895-74f0-4bbf-bd0c-e16a0251c8f3)](https://teplokotov.github.io/library-test-app/)
 
 🌐 [https://teplokotov.github.io/library-test-app/](https://teplokotov.github.io/library-test-app/)
 
@@ -34,3 +34,38 @@
 
 - [x] На странице необходимо вывести 14 книг. Постраничный вывод реализовывать не надо, все 14 книг должны быть на одной странице.
 
+### Запуск проекта в 🖐 5 шагов
+1. Клонируйте проект
+```bash
+git clone https://github.com/teplokotov/library-test-app.git
+```
+2. Перейдите в директорию проекта
+```bash
+cd library-test-app
+```
+3. Установите модули
+```bash
+npm install
+```
+4. Запустите проект
+```bash
+npm run dev
+```
+5. Откройте страницу
+```bash
+http://localhost:5173
+```
+
+### Используемые технологии
+- VS Code
+- Git Bash
+- Vite
+- React 18.2
+- TypeScript
+- Atomic Design
+- JSDoc
+
+## Контакты
+- Филипп Добриков
+- philipp.dobrikov@yandex.ru
+- https://t.me/hello_philipp
