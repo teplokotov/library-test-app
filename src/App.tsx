@@ -6,9 +6,6 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      {/* <Route path="/news" element={<NewsPage />} />
-      <Route path="/employees" element={<EmployeesPage />} />
-      <Route path="/events" element={<EventsPage />} /> */}
     </Routes>
   );
 }
